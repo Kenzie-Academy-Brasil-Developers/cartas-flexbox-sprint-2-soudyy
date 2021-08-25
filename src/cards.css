@@ -84,7 +84,7 @@ html {
 
 @media (max-width:710px) {
     .cardGroup {
-        width: 250px;
+        width: 320px;
         display: flex;
         flex-direction: column;
         justify-content: center;
