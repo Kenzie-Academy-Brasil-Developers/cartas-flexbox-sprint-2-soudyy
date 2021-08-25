@@ -13,10 +13,6 @@ html {
     color: #BCD2DA;
 }
 
-.cardGroup {
-    width: 710px;
-}
-
 .card {
     /* display, flex-direction */
     display: flex;
@@ -59,6 +55,7 @@ html {
 
 .cardGroup {
     /* display */
+    width: 710px;
     display: flex;
     border: 1px solid #CAD0D2;
     border-radius: 4px;
