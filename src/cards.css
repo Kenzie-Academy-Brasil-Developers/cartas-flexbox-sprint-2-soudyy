@@ -13,8 +13,8 @@ html {
     color: #BCD2DA;
 }
 
-body {
-    max-width: 710px;
+.cardGroup {
+    width: 710px;
 }
 
 .card {
@@ -84,12 +84,12 @@ body {
 
 @media (max-width:710px) {
     .cardGroup {
-        max-width: 320px;
+        width: 250px;
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-content: center;
         padding: 0;
-        height: 80%;
+        height: 50%;
     }
 }
